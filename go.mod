@@ -6,7 +6,7 @@ require (
 	fyne.io/fyne v1.3.0
 	github.com/PuerkitoBio/goquery v1.5.1
 	github.com/antchfx/htmlquery v1.2.3 // indirect
-	github.com/antchfx/xmlquery v1.2.4 // indirect
+	github.com/antchfx/xmlquery v1.3.1 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gocolly/colly v1.2.0
 	github.com/jinzhu/gorm v1.9.12
